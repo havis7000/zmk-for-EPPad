@@ -1,0 +1,9 @@
+file_format: "1"
+id: EPPad 
+name: EPPad
+type: shield
+url: 
+requires: [pro_micro]
+features:
+  - keys
+  - encoder
